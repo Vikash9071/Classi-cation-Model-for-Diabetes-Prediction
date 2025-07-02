@@ -1,1 +1,1 @@
-# Classi-cation-Model-for-Diabetes-Prediction
+# Classication-Model-for-Diabetes-Prediction
